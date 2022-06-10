@@ -1,1 +1,1 @@
-import torch
+print(9)
